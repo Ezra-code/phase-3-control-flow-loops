@@ -25,7 +25,7 @@ end
 def fizzbuzz_printer
   # your code here
   101.times do |num|
-    puts fizzbuzz(num)
+    print fizzbuzz(num)
   end
 end
 
